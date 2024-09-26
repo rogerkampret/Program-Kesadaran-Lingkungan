@@ -1,109 +1,134 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
-  <diagram name="Halaman-1" id="sIAGfW7ssRcVE6OY-pg4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
+  <diagram name="Halaman-1" id="1Sb5Kb2Xr03EcxDZrH8D">
     <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Start" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="210" width="51" height="34" as="geometry" />
+        <mxCell id="2" value="Edukasi Terkait Kesadaran Lingkungan" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="898" y="8" width="246" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Pelaporan sampah" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="163" y="103" width="145" height="34" as="geometry" />
+        <mxCell id="3" value="Tujuan Edukasi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="296" y="125" width="167" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Laporan dari Mahasiswa" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="12" y="206" width="186" height="34" as="geometry" />
+        <mxCell id="4" value="Materi Edukasi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="297" y="224" width="165" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Laporan dari Dosen" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="289" y="206" width="153" height="34" as="geometry" />
+        <mxCell id="5" value="Pengenalan Konsep Lingkungan" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8" y="323" width="196" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="Validasi laporan" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="310" width="129" height="34" as="geometry" />
+        <mxCell id="6" value="Dampak Buruk Penyimpangan Lingkungan" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="254" y="323" width="248" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="Validasi laporan" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="301" y="310" width="129" height="34" as="geometry" />
+        <mxCell id="7" value="Strategi Pelestarian Lingkungan" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="552" y="323" width="201" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="Tanggapi laporan" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="19" y="413" width="172" height="172" as="geometry" />
+        <mxCell id="8" value="Sikap Berkelanjutan" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="803" y="331" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="Tanggapi laporan" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="280" y="413" width="172" height="172" as="geometry" />
+        <mxCell id="9" value="Metode Edukasi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="920" y="125" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="Tindakan terhadap pelapor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry y="653" width="210" height="34" as="geometry" />
+        <mxCell id="10" value="Pelatihan dan Workshop" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="512" y="224" width="231" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="Tindakan terhadap pelapor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="260" y="653" width="210" height="34" as="geometry" />
+        <mxCell id="11" value="Diskusi Kelompok" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="793" y="224" width="184" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="12" value="Pemulihan keadaan" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="28" y="757" width="154" height="34" as="geometry" />
+        <mxCell id="12" value="Pelajaran Interaktif" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1027" y="224" width="201" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="13" value="Pemulihan keadaan" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="288" y="757" width="154" height="34" as="geometry" />
+        <mxCell id="13" value="Evaluasi dan Tindak Lanjut" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="125" width="252" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="14" value="G1,G2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="311" width="59" height="34" as="geometry" />
+        <mxCell id="14" value="Pemantauan Kemajuan" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1279" y="224" width="224" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="15" value="H,I" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="420" width="36" height="34" as="geometry" />
+        <mxCell id="15" value="Penilaian Efektivitas" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1553" y="224" width="206" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="16" value="J,K" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="506" width="38" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="17" value="Mahasiswa &amp; Dosen" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="2" target="3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="18" value="Lokasi 1" style="curved=1;startArrow=none;endArrow=block;exitX=0.2;exitY=1.01;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="3" target="4">
+        <mxCell id="16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="2" target="3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="105" y="172" />
+              <mxPoint x="380" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="19" value="Lokasi 1" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=1.01;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="3" target="5">
+        <mxCell id="17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="4" target="5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="365" y="172" />
+              <mxPoint x="106" y="298" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="20" value="Detail laporan" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="4" target="6">
+        <mxCell id="19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="4" target="6">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="378" y="298" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="21" value="Detail laporan" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="5" target="7">
+        <mxCell id="20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="4" target="7">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="653" y="298" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="22" value="Tindakan" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;" edge="1" parent="1" source="6" target="8">
+        <mxCell id="21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="4" target="8">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="905" y="298" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="23" value="Tindakan" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;" edge="1" parent="1" source="7" target="9">
+        <mxCell id="22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.47;exitY=0.99;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="2" target="9">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="1007" y="100" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="24" value="Aksi" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="8" target="10">
+        <mxCell id="23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="9" target="10">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="628" y="199" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="25" value="Aksi" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="9" target="11">
+        <mxCell id="24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=0.99;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="9" target="11">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="885" y="199" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="26" value="Penindakan" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="10" target="12">
+        <mxCell id="25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0.99;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="9" target="12">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="1128" y="199" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="27" value="Penindakan" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="11" target="13">
+        <mxCell id="26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="2" target="13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1656" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="13" target="14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1391" y="199" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="13" target="15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
