@@ -1,47 +1,37 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Halaman-1" id="OhTohT2GcI6ubDyXBxHM">
-    <mxGraphModel>
+    <mxGraphModel dx="1823" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="proses login admin" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="302" y="8" width="194" height="48" as="geometry" />
+        <mxCell id="fWE1IzaGamz4oVs6O4jJ-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="590" width="500" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="dashboard &#xa; berisikan data pelaporan" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="294" y="129" width="208" height="66" as="geometry" />
+        <mxCell id="fWE1IzaGamz4oVs6O4jJ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fWE1IzaGamz4oVs6O4jJ-11" target="fWE1IzaGamz4oVs6O4jJ-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="data monitoring sampah" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="8" y="284" width="234" height="48" as="geometry" />
+        <mxCell id="fWE1IzaGamz4oVs6O4jJ-11" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="780" width="90" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="data statistik sampah" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="292" y="284" width="214" height="48" as="geometry" />
+        <mxCell id="fWE1IzaGamz4oVs6O4jJ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fWE1IzaGamz4oVs6O4jJ-13" target="fWE1IzaGamz4oVs6O4jJ-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="data akun pengguna" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="555" y="284" width="204" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="7" value="Berhasil" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="2" target="3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+        <mxCell id="fWE1IzaGamz4oVs6O4jJ-16" value="Include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fWE1IzaGamz4oVs6O4jJ-15">
+          <mxGeometry x="-0.0397" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8" value="Lihat Data Monitoring Sampah" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.94;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="3" target="4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="125" y="239" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="fWE1IzaGamz4oVs6O4jJ-13" value="Lapor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="815" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="Lihat Data Statistik Sampah" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="3" target="5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="fWE1IzaGamz4oVs6O4jJ-14" value="Report" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="700" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="Lihat Data Akun Pengguna" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="3" target="6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="657" y="239" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="fWE1IzaGamz4oVs6O4jJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fWE1IzaGamz4oVs6O4jJ-18" target="fWE1IzaGamz4oVs6O4jJ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fWE1IzaGamz4oVs6O4jJ-18" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="657.5" width="90" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
