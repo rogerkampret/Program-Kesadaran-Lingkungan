@@ -184,7 +184,7 @@
         </mxCell>
         <mxCell id="Qb-0AWlYgRk_CeKk7BJi-33" value="&amp;lt;&amp;lt;inclkude&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qb-0AWlYgRk_CeKk7BJi-26">
           <mxGeometry x="0.0998" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" y="16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qb-0AWlYgRk_CeKk7BJi-27" value="data sampah organik" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
